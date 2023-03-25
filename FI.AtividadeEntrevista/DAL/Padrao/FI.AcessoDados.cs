@@ -60,7 +60,7 @@ namespace FI.AtividadeEntrevista.DAL
             conexao.Open();
 
             try
-            {               
+            {  
                 adapter.Fill(ds);
             }
             finally

@@ -9,3 +9,18 @@
     padding-right: 15px;
 }
 
+.white-space-break-spaces {
+    white-space: break-spaces;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justify-content-end{
+    justify-content: end;
+}
+
+.align-items-end{
+    align-items: end;
+}
